@@ -1,8 +1,10 @@
 # Hi & Welcome! :smiley:
 
+![myImage_1]()
+
 This workshop invites R users with basic/intermediate knowledge who are interested in learning how to build their personal website using the Blogdown package (No prior knowledge with Blogdown is required). This workshop will be an interactive presentation, where we will build a website together from scratch. We will also provide further resources that will allow you to continue enhancing your website on your own. Please make sure you have R, RStudio and git installed on your computer, and a GitHub account.
 
-![myImage](https://github.com/UNSW-codeRs/Blogdown-Workshop/blob/main/featured.png)
+![myImage_2](https://github.com/UNSW-codeRs/Blogdown-Workshop/blob/main/featured.png)
 
 Participants should have before starting the workshop: 
 
