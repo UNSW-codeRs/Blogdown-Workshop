@@ -6,10 +6,6 @@ This workshop invites R users with basic/intermediate knowledge who are interest
   <img width="400" height="250" src="https://github.com/UNSW-codeRs/Blogdown-Workshop/blob/main/featured.png">
 </p>
 
-<p align="center">
-  <img width="400" height="250" src="">
-</p>
-
 
 Participants should have before starting the workshop: 
 
@@ -23,10 +19,7 @@ Additional resources:
 - Our [slides](https://github.com/UNSW-codeRs/Blogdown-Workshop/blob/main/Introduction_Blogdown.pptx) that explain the background to Blogdown: 
 - Check out our [Youtube](https://www.youtube.com/channel/UC9Sm1qcdzyGVjQMgWsW4pcw/playlists) playlist. It includes all the basics that we cover in our workshop and SO MUCH MORE!
 
-<p align="center">
-  <img width="600" height="500" src="https://github.com/UNSW-codeRs/Blogdown-Workshop/blob/main/blogdown.png">
-</p>
 
-<video width="320" height="240" controls>
-  <source src="video.mov" type="video/mp4">
-</video>
+<p align="center">
+  <img width="500" height="500" src="GIF.gif">
+</p>
