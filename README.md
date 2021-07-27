@@ -6,6 +6,11 @@ This workshop invites R users with basic/intermediate knowledge who are interest
   <img width="400" height="250" src="https://github.com/UNSW-codeRs/Blogdown-Workshop/blob/main/featured.png">
 </p>
 
+<p align="center">
+  <img width="400" height="250" src="">
+</p>
+
+
 Participants should have before starting the workshop: 
 
 - R and RStudio installed
