@@ -22,3 +22,6 @@ Additional resources:
   <img width="600" height="500" src="https://github.com/UNSW-codeRs/Blogdown-Workshop/blob/main/blogdown.png">
 </p>
 
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
