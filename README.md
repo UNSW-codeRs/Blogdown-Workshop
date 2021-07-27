@@ -9,7 +9,8 @@ This workshop invites R users with basic/intermediate knowledge who are interest
 Participants should have before starting the workshop: 
 
 - R and RStudio installed
-- Git and a Github account
+- Git installed
+- Github account
 
 
 Additional resources:
