@@ -21,5 +21,5 @@ Additional resources:
 
 
 <p align="center">
-  <img width="500" height="500" src="GIF.gif">
+  <img width="500" height="500" src="">
 </p>
