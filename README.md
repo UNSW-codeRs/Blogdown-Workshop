@@ -13,6 +13,10 @@ Participants should have before starting the workshop:
 - Git installed
 - Github account
 
+<p align="center">
+  <img width="700" height="500" src="gif_SparkVideo.gif">
+</p>
+
 
 Additional resources:
 - A [blog post by Jenny Sloan](https://jennysloane.netlify.app/project/blogdown/) that will walk you through every step to build you first academic website with Blogdown.
@@ -20,6 +24,3 @@ Additional resources:
 - Check out our [Youtube](https://www.youtube.com/channel/UC9Sm1qcdzyGVjQMgWsW4pcw/playlists) playlist. It includes all the basics that we cover in our workshop and SO MUCH MORE!
 
 
-<p align="center">
-  <img width="500" height="500" src="gif_SparkVideo.gif">
-</p>
