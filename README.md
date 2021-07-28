@@ -14,7 +14,7 @@ Participants should have before starting the workshop:
 - Github account
 
 <p align="center">
-  <img width="700" height="500" src="gif_SparkVideo.gif">
+  <img width="500" height="3500" src="gif_SparkVideo.gif">
 </p>
 
 
