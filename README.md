@@ -21,5 +21,5 @@ Additional resources:
 
 
 <p align="center">
-  <img width="500" height="500" src="">
+  <img width="500" height="500" src="gif_SparkVideo.gif">
 </p>
