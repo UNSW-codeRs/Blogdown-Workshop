@@ -14,7 +14,7 @@ Participants should have before starting the workshop:
 - Github account
 
 <p align="center">
-  <img width="500" height="350" src="gif.mov">
+  <img width="500" height="350" src=".mov">
 </p>
 
 
