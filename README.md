@@ -21,7 +21,7 @@ Participants should have before starting the workshop:
 - :link: Check out our [Youtube](https://www.youtube.com/channel/UC9Sm1qcdzyGVjQMgWsW4pcw/playlists) playlist. It includes all the basics that we cover in our workshop and SO MUCH MORE!
 
 <p align="center">
-  <img width="600" height="400" src="gif_blogdown_final_SparkVideo-2.gif">
+  <img width="500" height="300" src="gif_blogdown_final_SparkVideo-2.gif">
 </p>
 
 
