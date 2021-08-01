@@ -16,7 +16,7 @@ Participants should have before starting the workshop:
 
 
 :books: Additional resources: 
-- :link: A [blog post by Jenny Sloan](https://jennysloane.netlify.app/project/blogdown/) that will walk you through every step to build you first academic website with Blogdown.
+- :link: A [blog post by Jenny Sloane](https://jennysloane.netlify.app/project/blogdown/) that will walk you through every step to build you first academic website with Blogdown.
 - :link: Our [slides](https://github.com/UNSW-codeRs/Blogdown-Workshop/blob/main/Introduction_Blogdown.pptx) that explain the background to Blogdown: 
 - :link: Check out our [Youtube](https://www.youtube.com/channel/UC9Sm1qcdzyGVjQMgWsW4pcw/playlists) playlist. It includes all the basics that we cover in our workshop and SO MUCH MORE!
 
